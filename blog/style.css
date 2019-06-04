@@ -1,0 +1,20 @@
+.center{
+	margin-right: 50%;
+	margin-left: 50%;
+}
+body{
+	margin: 0;
+	padding: 0;
+	color: black;
+	font-family: Arial;
+}
+a{
+	background: red;
+	text-decoration-line: none;
+}
+.text{
+	margin-left: 90px;
+}
+.stat{
+	text-align: center;
+}
